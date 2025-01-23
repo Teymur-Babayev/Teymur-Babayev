@@ -1,4 +1,4 @@
-## Hi there 👋
+## Welcome to my GitHub profile! I'm a Senior Full-Stack Developer with over 11 years of experience, specializing in Web Development, Mobile App Development, Game developement, Trading , Betting Bot developement and Blockchain Technologies. I’m passionate about building scalable, high-performance applications and exploring new innovations in tech.👋
 
 <!--
 **Teymur-Babayev/Teymur-Babayev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
