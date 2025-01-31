@@ -1,6 +1,6 @@
 ## Welcome to my GitHub profile! 👋
 
-Welcome to my GitHub profile! I'm a Full-Stack Developer with over 10 years of experience, specializing in Web Development, Mobile App Development, Game Development and Blockchain Technologies. I’m passionate about building scalable, high-performance applications and exploring new innovations in tech.
+Welcome to my GitHub profile! I'm a Senior Full-Stack Developer with over 10 years of experience, specializing in Web Development, Mobile App Development, Game Development and Blockchain Technologies. I’m passionate about building scalable, high-performance applications and exploring new innovations in tech.
 
 💻 Technologies & Tools
 Languages & Frameworks:
