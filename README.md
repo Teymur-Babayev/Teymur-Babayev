@@ -16,7 +16,7 @@
 ## 🧑 About me:
 
 <p>
-I'm Full Stack & BlockChain Developer who like challenges and am always learning new technologies every day.
+I'm Full Stack & BlockChain & Game Developer who like challenges and am always learning new technologies every day.
 </p>
 
 <h2>🥇 Specialised in:</h2>
