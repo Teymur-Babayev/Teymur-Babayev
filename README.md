@@ -1,6 +1,6 @@
-## Hi there 👋
+#Hi, I'm Teymur Babayev.👋
 
-<!-- Hi, I'm Teymur Babayev.
+
 Crypto trading, betting platfrom and automation bot Engineer & Web3 Developer passionate about AI-powered innovations.
 Polymarket bots | Provable casinos --- "I make money while you sleep!"
 
@@ -25,4 +25,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
